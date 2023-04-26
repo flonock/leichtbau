@@ -61,3 +61,11 @@ FSPxges=sumAx/sumA
 % for i = 1:segmentcount
 %     Iy = 
 
+
+
+% tramsformation FTM
+
+Ix = 1/2*(Isx+Isy)+
+Iy = 1/2*(Isx+Isy)
+Ixy = 
+
