@@ -65,7 +65,7 @@ FSPxges=sumAx/sumA
 
 % tramsformation FTM
 
-Ix = 1/2*(Isx+Isy)+
-Iy = 1/2*(Isx+Isy)
-Ixy = 
+Ix  =
+Iy  =
+Ixy =
 
